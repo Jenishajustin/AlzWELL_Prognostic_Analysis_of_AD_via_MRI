@@ -25,8 +25,19 @@ AlzWELL is an innovative web-based platform designed to aid in the early detecti
 ![Fanout](https://github.com/user-attachments/assets/5c20ab52-c2c9-4128-963c-df1f83815d5f)
 
 ## Output
-### Output1 - Name of the output
-### Output2 - Name of the output
+### Output1 - Landing Page
+![image](https://github.com/user-attachments/assets/a7553da2-01cc-4909-b0ce-8a9d043590ae)
+
+### Output2 - Login Page
+![image](https://github.com/user-attachments/assets/0d2efc36-bcbd-4401-b27b-12c790675ee8)
+
+### Output3 - Home Page
+![image](https://github.com/user-attachments/assets/61758f9c-ae92-4861-ad55-8bfb512eac97)
+
+### Output4 - MRI Analysis Page
+![image](https://github.com/user-attachments/assets/b0f8cf59-6ae8-421e-92a6-ed6b9079bd3e)
+
+![image](https://github.com/user-attachments/assets/7fba791e-e497-4da8-baf8-25365de98756)
 
 ## Results and Impact
 The AlzWELL system significantly advances early Alzheimer's detection by integrating machine learning and deep learning, offering a powerful tool for proactive and personalized healthcare. With its high-accuracy MRI classification model and intuitive health visualization, AlzWELL empowers both patients and healthcare providers to make informed decisions, transforming the landscape of cognitive health management.
