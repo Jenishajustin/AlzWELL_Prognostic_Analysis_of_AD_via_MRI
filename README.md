@@ -22,6 +22,7 @@ AlzWELL is an innovative web-based platform designed to aid in the early detecti
 </ul>
 
 ## System Architecture
+![Fanout](https://github.com/user-attachments/assets/5c20ab52-c2c9-4128-963c-df1f83815d5f)
 
 ## Output
 ### Output1 - Name of the output
